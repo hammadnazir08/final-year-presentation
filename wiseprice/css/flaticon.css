@@ -1,0 +1,182 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.woff2?63cab4d1d4b24f1859763d0a0debc484") format("woff2"),
+url("../fonts/flaticon.woff?63cab4d1d4b24f1859763d0a0debc484") format("woff"),
+url("../fonts/flaticon.eot?63cab4d1d4b24f1859763d0a0debc484#iefix") format("embedded-opentype"),
+url("../fonts/flaticon.ttf?63cab4d1d4b24f1859763d0a0debc484") format("truetype"),
+url("../fonts/flaticon.svg?63cab4d1d4b24f1859763d0a0debc484#flaticon_car-dealer") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-tablet:before {
+    content: "\f101";
+}
+.flaticon-seo:before {
+    content: "\f102";
+}
+.flaticon-animation:before {
+    content: "\f103";
+}
+.flaticon-customer-service:before {
+    content: "\f104";
+}
+.flaticon-sparkler:before {
+    content: "\f105";
+}
+.flaticon-preferences:before {
+    content: "\f106";
+}
+.flaticon-touch:before {
+    content: "\f107";
+}
+.flaticon-accelerate:before {
+    content: "\f108";
+}
+.flaticon-star:before {
+    content: "\f109";
+}
+.flaticon-search:before {
+    content: "\f10a";
+}
+.flaticon-sort:before {
+    content: "\f10b";
+}
+.flaticon-brand:before {
+    content: "\f10c";
+}
+.flaticon-public-relation:before {
+    content: "\f10d";
+}
+.flaticon-hand:before {
+    content: "\f10e";
+}
+.flaticon-money-saving:before {
+    content: "\f10f";
+}
+.flaticon-tyre:before {
+    content: "\f110";
+}
+.flaticon-fuel:before {
+    content: "\f111";
+}
+.flaticon-rating:before {
+    content: "\f112";
+}
+.flaticon-missed-call:before {
+    content: "\f113";
+}
+.flaticon-play-button:before {
+    content: "\f114";
+}
+.flaticon-location:before {
+    content: "\f115";
+}
+.flaticon-next:before {
+    content: "\f116";
+}
+.flaticon-right:before {
+    content: "\f117";
+}
+.flaticon-gallery:before {
+    content: "\f118";
+}
+.flaticon-share:before {
+    content: "\f119";
+}
+.flaticon-circular-label-with-certified-stamp:before {
+    content: "\f11a";
+}
+.flaticon-forward:before {
+    content: "\f11b";
+}
+.flaticon-list:before {
+    content: "\f11c";
+}
+.flaticon-percent:before {
+    content: "\f11d";
+}
+.flaticon-dollar-symbol:before {
+    content: "\f11e";
+}
+.flaticon-calendar:before {
+    content: "\f11f";
+}
+.flaticon-menu:before {
+    content: "\f120";
+}
+.flaticon-price-tag:before {
+    content: "\f121";
+}
+.flaticon-copy:before {
+    content: "\f122";
+}
+.flaticon-trend:before {
+    content: "\f123";
+}
+.flaticon-chevron:before {
+    content: "\f124";
+}
+.flaticon-location-1:before {
+    content: "\f125";
+}
+.flaticon-car:before {
+    content: "\f126";
+}
+.flaticon-sparkler-1:before {
+    content: "\f127";
+}
+.flaticon-arrow-upper-right:before {
+    content: "\f128";
+}
+.flaticon-right-down:before {
+    content: "\f129";
+}
+.flaticon-hamburger:before {
+    content: "\f12a";
+}
+.flaticon-whatsapp:before {
+    content: "\f12b";
+}
+.flaticon-sell:before {
+    content: "\f12c";
+}
+.flaticon-brake:before {
+    content: "\f12d";
+}
+.flaticon-check-box:before {
+    content: "\f12e";
+}
+.flaticon-maps-and-flags:before {
+    content: "\f12f";
+}
+.flaticon-phone-call:before {
+    content: "\f130";
+}
+.flaticon-trust:before {
+    content: "\f131";
+}
+.flaticon-twitter:before {
+    content: "\f132";
+}
+
